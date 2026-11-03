@@ -1,15 +1,17 @@
 # Projeto de Tabuada
 
-Projeto simples para praticar e consultar operações de multiplicação por meio de tabuadas.
+Aplicação simples e interativa para praticar e consultar operações de multiplicação.
+
+## Como usar
+
+Abra o arquivo `index.html` em um navegador, digite um número inteiro de 1 a 10 e selecione **Ver tabuada**.
+
+## Arquivos
+
+- `index.html`: estrutura da aplicação.
+- `style.css`: estilos e layout responsivo.
+- `script.js`: validação do número e geração da tabuada.
 
 ## Objetivo
 
-Ajudar no aprendizado da multiplicação, organizando os resultados da tabuada de forma clara e fácil de consultar.
-
-## Sobre o projeto
-
-Este repositório contém um projeto de tabuada. A implementação ainda está em desenvolvimento; as instruções de execução serão incluídas aqui quando a aplicação estiver disponível.
-
-## Contribuição
-
-Sugestões e melhorias são bem-vindas. Abra uma *issue* para relatar uma ideia ou problema.
+Ajudar no aprendizado da multiplicação, organizando os resultados de forma clara e fácil de consultar.
